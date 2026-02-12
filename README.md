@@ -65,5 +65,5 @@
 </p>
 
 <p align="center">
-  <img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=00000000&bar_color=A7C080&bar_color_light=B2B8E1&user_id=YOUR_SPOTIFY_ID" alt="Spotify Now Playing" width="350" />
+  <img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=00000000&bar_color=A7C080&bar_color_light=B2B8E1&user_id=12165525798" alt="Spotify Now Playing" width="350" />
 </p>
