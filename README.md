@@ -63,7 +63,3 @@
     <img src="https://img.shields.io/badge/bug_fixing_soundtrack-A7C080?style=flat-square&logo=spotify&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=00000000&bar_color=A7C080&bar_color_light=B2B8E1&user_id=12165525798" alt="Spotify Now Playing" width="350" />
-</p>
