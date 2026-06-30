@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <strong>Fluent in EN | ES — Learning PT | FR </strong>
+  <strong>Fluent in EN | ES — Learning PT | FR | DE </strong>
 </p>
 
 ---
