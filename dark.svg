@@ -83,12 +83,12 @@
 <line x1="448" y1="101.5" x2="940" y2="101.5" stroke="#30363d" class="row" style="animation-delay:0.42s"/>
 <text x="448" y="117.5" class="key row" style="animation-delay:0.49s">Role</text>
 <text x="540" y="117.5" class="val row" style="animation-delay:0.49s">Researching drone autonomy + 3D indoor mapping · SIGAI</text>
-<text x="448" y="135.0" class="key row" style="animation-delay:0.56s">Edu</text>
-<text x="540" y="135.0" class="val row" style="animation-delay:0.56s">B.S. CS  &amp; B.S. P  ·  UTRGV</text>
-<text x="448" y="152.5" class="key row" style="animation-delay:0.63s">Focus</text>
-<text x="540" y="152.5" class="acc row" style="animation-delay:0.63s">Robotics ✭ AI/ML ✭ Full-stack Software Dev</text>
+<text x="448" y="135.0" class="key row" style="animation-delay:0.56s">Focus</text>
+<text x="540" y="135.0" class="acc row" style="animation-delay:0.56s">Robotics ✭ AI/ML ✭ Full-stack Software Dev</text>
+<text x="448" y="152.5" class="key row" style="animation-delay:0.63s">Edu</text>
+<text x="540" y="152.5" class="val row" style="animation-delay:0.63s">B.S. CS  &amp; B.S. P  ·  UTRGV</text>
 <text x="448" y="180.0" class="sec row" style="animation-delay:0.70s">~/stack</text>
-<text x="448" y="197.5" class="key row" style="animation-delay:0.77s">Lang</text>
+<text x="448" y="197.5" class="key row" style="animation-delay:0.77s">Prog Langs</text>
 <text x="540" y="197.5" class="val row" style="animation-delay:0.77s">Python · C++ · JavaScript · SQL · HTML</text>
 <text x="448" y="215.0" class="key row" style="animation-delay:0.84s">Backend</text>
 <text x="540" y="215.0" class="val row" style="animation-delay:0.84s">Java · Node.js</text>
@@ -106,10 +106,12 @@
 <text x="448" y="357.5" class="sec row" style="animation-delay:1.33s">~/highlights</text>
 <text x="448" y="375.0" class="row" style="animation-delay:1.40s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 1   ·   stars 0   ·   followers 6</tspan></text>
 <text x="448" y="402.5" class="sec row" style="animation-delay:1.47s">~/reach</text>
-<text x="448" y="420.0" class="key row" style="animation-delay:1.54s">Web</text>
-<text x="540" y="420.0" class="acc row" style="animation-delay:1.54s">cloudia-cassandra.github.io</text>
-<text x="448" y="437.5" class="key row" style="animation-delay:1.61s">In</text>
-<text x="540" y="437.5" class="acc row" style="animation-delay:1.61s">linkedin.com/in/claudia-cassandra</text>
-<text x="30" y="596" class="row" style="animation-delay:1.78s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to opportunities to grow as an engineer</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="596" class="mut" text-anchor="end">last updated 22 Jul 2026, 11:44 CT</text>
+<text x="448" y="420.0" class="key row" style="animation-delay:1.54s">Langs</text>
+<text x="540" y="420.0" class="val row" style="animation-delay:1.54s">Español · English · Português · Français</text>
+<text x="448" y="437.5" class="key row" style="animation-delay:1.61s">Website</text>
+<text x="540" y="437.5" class="acc row" style="animation-delay:1.61s">cloudia-cassandra.github.io</text>
+<text x="448" y="455.0" class="key row" style="animation-delay:1.68s">LinkedIn</text>
+<text x="540" y="455.0" class="acc row" style="animation-delay:1.68s">linkedin.com/in/claudia-cassandra</text>
+<text x="30" y="596" class="row" style="animation-delay:1.85s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to opportunities to grow as an engineer</tspan><tspan class="cur" dx="8">█</tspan></text>
+<text x="946" y="596" class="mut" text-anchor="end">last updated 22 Jul 2026, 12:09 CT</text>
 </svg>
