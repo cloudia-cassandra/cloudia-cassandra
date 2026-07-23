@@ -104,7 +104,7 @@
 <text x="448" y="330.0" class="key row" style="animation-delay:1.26s">Orchestra</text>
 <text x="540" y="330.0" class="wrn row" style="animation-delay:1.26s">Multi-agent system + tools + memory + HITL</text>
 <text x="448" y="357.5" class="sec row" style="animation-delay:1.33s">~/highlights</text>
-<text x="448" y="375.0" class="row" style="animation-delay:1.40s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 1   ·   stars 0   ·   followers 6</tspan></text>
+<text x="448" y="375.0" class="row" style="animation-delay:1.40s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 2   ·   stars 0   ·   followers 6</tspan></text>
 <text x="448" y="402.5" class="sec row" style="animation-delay:1.47s">~/reach</text>
 <text x="448" y="420.0" class="key row" style="animation-delay:1.54s">Langs</text>
 <text x="540" y="420.0" class="val row" style="animation-delay:1.54s">Español · English · Português · Français</text>
@@ -113,5 +113,5 @@
 <text x="448" y="455.0" class="key row" style="animation-delay:1.68s">LinkedIn</text>
 <text x="540" y="455.0" class="acc row" style="animation-delay:1.68s">linkedin.com/in/claudia-cassandra</text>
 <text x="30" y="596" class="row" style="animation-delay:1.85s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to opportunities to grow as an engineer</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="596" class="mut" text-anchor="end">last updated 22 Jul 2026, 23:13 CT</text>
+<text x="946" y="596" class="mut" text-anchor="end">last updated 23 Jul 2026, 02:31 CT</text>
 </svg>
