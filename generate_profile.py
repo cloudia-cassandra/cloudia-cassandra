@@ -32,8 +32,8 @@ def load_portrait():
 INFO = [
     ("__header__", "claudia cassandra", ""),
     ("__rule__", "", ""),
-    ("Role",     "Researching drone autonomy + 3D indoor mapping · SIGAI", "val"),
-    ("Focus",    "Robotics ✭ AI/ML ✭ Full-stack Software Dev", "accent"),
+    ("Role",     "AWS SBCL · AI Eng @ CodePath · MARS Lab URA", "val"),
+    ("Focus",    "AI/ML ✭ Full-stack Software Dev ✭ Robotics", "accent"),
     ("Edu",      "B.S. CS  & B.S. P  ·  UTRGV", "val"),
     ("__blank__", "", ""),
     ("__section__", "~/stack", ""),
