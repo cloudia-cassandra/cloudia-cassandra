@@ -33,7 +33,7 @@ INFO = [
     ("__header__", "claudia cassandra", ""),
     ("__rule__", "", ""),
     ("Role",     "AWS SBCL · AI Eng @ CodePath · MARS Lab URA", "val"),
-    ("Focus",    "AI/ML ✭ Full-stack Software Dev ✭ Robotics", "accent"),
+    ("Focus",    "AI/ML ✭ Cloud ✭ Full-stack SWE ✭ Robotics", "accent"),
     ("Edu",      "B.S. CS  & B.S. P  ·  UTRGV", "val"),
     ("__blank__", "", ""),
     ("__section__", "~/stack", ""),
