@@ -32,7 +32,7 @@ def load_portrait():
 INFO = [
     ("__header__", "claudia cassandra", ""),
     ("__rule__", "", ""),
-    ("Role",     "AWS SBCL · AI Eng @ CodePath · MARS Lab URA", "val"),
+    ("Role",     "GH CE · AWS SBCL · AI Eng @ CodePath", "val"),
     ("Focus",    "AI/ML ✭ Cloud ✭ Full-stack SWE ✭ Robotics", "accent"),
     ("Edu",      "B.S. CS  & B.S. P  ·  UTRGV", "val"),
     ("__blank__", "", ""),
